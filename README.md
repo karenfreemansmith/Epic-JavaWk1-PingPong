@@ -1,7 +1,5 @@
 # Spark Ping-Pong
-Version 0.0.0: September 11, 2016
-
-by [Karen Freeman-Smith](https://github.com/karenfreemansmith)
+Version 0.0.1: September 6, 2016 by [Karen Freeman-Smith](https://github.com/karenfreemansmith) and [Georgina Van Dort](https://github.com/GeorginaVanDort)
 
 ## Description
 A program to print out "ping" and "pong" depending on what a number is divisible by.
@@ -26,4 +24,4 @@ Java, Spark, Gradle, junit
 ## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 Copyright _Karen Freeman-Smith_ All Rights Reserved.
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://github.com/karenfreemansmith) & [Georgina Van Dort](https://github.com/GeorginaVanDort)_ All Rights Reserved.
